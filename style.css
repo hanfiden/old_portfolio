@@ -45,7 +45,7 @@ header img:hover {
 /*############################CONTAINER################################*/
 
 .description-text {
-  padding: 5%;
+  padding: 5% 15% 5% 15%;
 }
 
 .description-text h3 {
