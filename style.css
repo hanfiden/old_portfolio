@@ -45,7 +45,7 @@ header img:hover {
 /*############################CONTAINER################################*/
 
 .description-text {
-  padding: 5% 15% 5% 15%;
+  padding: 5%;
 }
 
 .description-text h3 {
@@ -56,6 +56,8 @@ header img:hover {
   line-height: 25px;
   color: #606060;
   padding-top: 2%;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 
