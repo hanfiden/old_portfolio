@@ -1,0 +1,100 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+/*############################MAIN################################*/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  color: #606060;
+}
+
+/*############################HEADER################################*/
+
+header div.card {
+  background-image: url('images/background.png');
+  padding: 12%;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+header img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 30%);
+  border: solid 4px white;
+  transition: all .2s ease-out;
+}
+
+li {
+  display: inline-block;
+}
+
+header img:hover {
+  transform: scale(1.05);
+}
+
+
+/*############################CONTAINER################################*/
+
+.description-text {
+  padding: 5%;
+}
+
+.description-text h3 {
+  color: #606060;
+}
+
+.description-text p {
+  line-height: 25px;
+  color: #606060;
+  padding-top: 2%;
+}
+
+
+/*############################RESPONSIVE################################*/
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 960px;
+    margin: auto;
+  }
+
+  header img {
+    width: 50%;
+    height: 50%;
+  }
+}
+@media (max-width: 800px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 800px;
+    margin: auto;
+  }
+
+  header img {
+    width: 50%;
+    height: 50%;
+  }
+}
+@media (max-width: 640px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 640px;
+    margin: auto;
+  }
+
+  header img {
+    width: 50%;
+    height: 50%;
+  }
+}
