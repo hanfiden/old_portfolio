@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fiden</h1>
-<h3 align="center">A passionate dev web from France</h3>
+<h3 align="center">A passionate in science and programming</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanfiden" alt="hanfiden" /></a> </p>
 
 - 🔭 I’m currently working on [Urgence Vitale](https://www.urgence-vitale.org/)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
