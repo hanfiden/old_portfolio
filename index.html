@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fiden - Han</title>
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
     <script src="https://kit.fontawesome.com/e13f1c794d.js" crossorigin="anonymous"></script>
   </head>
   <body>
@@ -497,10 +498,10 @@
         <h2 class="section__title">Portfolio</h2>
         <span class="section__subtitle">Mes projets récents</span>
 
-        <div class="portfolio__container container">
-          <div>
+        <div class="portfolio__container container swiper mySwiper">
+          <div class="swiper-wrapper">
             <!--==================== PROJECT 1 ====================-->
-            <div class="portfolio__content grid">
+            <div class="portfolio__content grid swiper-slide">
               <img src="assets/images/urgence_vitale.jpg" alt="urgence vitale" class="portfolio__img">
 
               <div class="portfolio__data">
@@ -515,7 +516,7 @@
             </div>
 
             <!--==================== PROJECT 2 ====================-->
-            <div class="portfolio__content grid">
+            <div class="portfolio__content grid swiper-slide">
               <img src="assets/images/pet_never_die.jpg" alt="pet never die" class="portfolio__img">
 
               <div class="portfolio__data">
@@ -529,7 +530,7 @@
             </div>
 
             <!--==================== PROJECT 3 ====================-->
-            <div class="portfolio__content grid">
+            <div class="portfolio__content grid swiper-slide">
               <img src="assets/images/first_website.jpg" alt="first website" class="portfolio__img">
 
               <div class="portfolio__data">
@@ -542,6 +543,15 @@
               </div>
             </div>
           </div>
+          <!--==================== SWIPER ARROW ====================-->
+          <div class="swiper-button-next">
+
+          </div>
+          <div class="swiper-button-prev">
+
+          </div>
+
+          <div class="swiper-pagination"></div>
         </div>
       </section>
 
@@ -557,6 +567,7 @@
 
 
     </footer>
+    <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/main.js"></script>
   </body>
 </html>
