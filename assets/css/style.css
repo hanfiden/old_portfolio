@@ -844,7 +844,8 @@ img{
 
 .footer__title,
 .footer__subtitle,
-.footer__link{
+.footer__link,
+.footer__source{
   color: #FFF;
 }
 /*========== SCROLL UP ==========*/
@@ -889,10 +890,48 @@ img{
 ::-webkit-scrollbar-thumb:hover{
   background-color: var(--text-color-light);
 }
+
 /*==================== MEDIA QUERIES ====================*/
 /* For small devices */
+@media screen and (max-width: 350px){
+  .container{
+    margin-left: var(--mb-1);
+    margin-right: var(--mb-1);
+  }
 
+  .nav__menu{
+    padding: 2rem .25rem 4rem;
+  }
+  .nav__list{
+    column-gap: 0;
+  }
 
+  .home__content{
+    grid-template-columns: .25fr 3fr;
+  }
+  .home__blob{
+    width: 180px;
+  }
+
+  .skills__title{
+    font-size: var(--normal-font-size);
+  }
+
+  .qualification__data{
+    gap: .5rem;
+  }
+
+  .services__container{
+    grid-template-columns: max-content;
+    justify-content: center;
+  }
+  .services__content{
+    padding-right: 3rem;
+  }
+  .services__modal{
+    padding: 0 .5rem;
+  }
+}
 /* For medium devices */
 
 
