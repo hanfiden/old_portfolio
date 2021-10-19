@@ -490,6 +490,12 @@ img{
   height: 75px;
 }
 
+.skills__logo img:hover{
+  cursor: pointer;
+  transform: scale(1.05);
+  transition: .3s;
+}
+
 .skills__close .skills__list{
   height: 0;
   overflow: hidden;
