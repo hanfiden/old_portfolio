@@ -480,51 +480,14 @@ img{
   font-weight: var(--font-medium);
 }
 
-.skills__bar,
-.skills__percentage{
-  height: 5px;
-  border-radius: .25rem;
+.skills__list{
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.skills__bar{
-  background-color: var(--first-color-lighter);
-}
-
-.skills__percentage{
-  display: block;
-  background-color: var(--first-color);
-}
-
-.skills__html{
-  width: 85%;
-}
-
-.skills__css{
-  width: 70%;
-}
-
-.skills__js{
-  width: 60%;
-}
-
-.skills__ruby{
-  width: 65%;
-}
-
-.skills__rails{
-  width: 70%;
-}
-
-.skills__sql{
-  width: 50%;
-}
-
-.skills__figma{
-  width: 75%;
-}
-
-.skills__ps{
-  width: 60%;
+.skills__logo img{
+  width: 75px;
+  height: 75px;
 }
 
 .skills__close .skills__list{
