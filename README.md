@@ -4,7 +4,7 @@
 - 👱🏼‍♂️ Let's check out my [Portfolio](https://hanfiden.github.io/hanfiden/) (Ctrl + click to open on new window)
 
 - 🧑🏼‍💻 I’m currently working on projects:\
-[Web Glossary](https://webglossary.herokuapp.com)\ (Ctrl + click to open on new window)
+[Web Glossary](https://webglossary.herokuapp.com) (Ctrl + click to open on new window)\
 [RéAgi'Son](https://reagi-son.herokuapp.com) (Ctrl + click to open on new window)
 
 - 🌱 I’m currently learning **Ruby and Ruby on Rails**
