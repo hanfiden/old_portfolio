@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Astreinte Vitale](https://www.youtube.com/watch?v=1AYKmFTObQQ&t=2761s&ab_channel=LeWagon)
 
-- 🧑🏼‍💻 I’m currently creating a website [Web Glossary](https://webglossary.herokuapp.com)
+- 🧑🏼‍💻 I’m currently creating a website [Web Glossary](https://webglossary.herokuapp.com)\
                                       [RéAgi'Son](https://reagi-son.herokuapp.com)
 
 - 🌱 I’m currently learning **Ruby and Ruby on Rails**
