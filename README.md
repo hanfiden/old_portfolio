@@ -5,7 +5,7 @@
 
 - 🧑🏼‍💻 I’m currently working on projects:\
 <a href="https://webglossary.herokuapp.com" target="_blanks">Web Glossary</a>
-[Web Glossary](https://webglossary.herokuapp.com)\
+[Web Glossary](https://webglossary.herokuapp.com){:target="_blank"}\
 [RéAgi'Son](https://reagi-son.herokuapp.com)
 
 - 🌱 I’m currently learning **Ruby and Ruby on Rails**
