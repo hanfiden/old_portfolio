@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fiden</h1>
 <h3 align="center">A passionate in science and programming 💻</h3>
 
-- 👱🏼‍♂️ Let's check out my [Portfolio](https://hanfiden.github.io/hanfiden/)
+- 👱🏼‍♂️ Let's check out my [Portfolio](https://hanfiden.github.io/hanfiden/){:target="_blank"}
 
 - 🧑🏼‍💻 I’m currently working on projects:\
-[Web Glossary](https://webglossary.herokuapp.com)\
-[RéAgi'Son](https://reagi-son.herokuapp.com)
+[Web Glossary](https://webglossary.herokuapp.com){:target="_blank"}\
+[RéAgi'Son](https://reagi-son.herokuapp.com){:target="_blank"}
 
 - 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
