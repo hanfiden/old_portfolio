@@ -3,9 +3,10 @@
 
 - 👱🏼‍♂️ Let's check out my [Portfolio](https://hanfiden.github.io/hanfiden/) (Ctrl + click to open on new window)
 
-- 🧑🏼‍💻 I’m currently working on projects:\
+- 🧑🏼‍💻 Here, are my projects:\
+[RéAgi'Son](https://reagi-son.herokuapp.com) (Ctrl + click to open on new window)\
 [Web Glossary](https://webglossary.herokuapp.com) (Ctrl + click to open on new window)\
-[RéAgi'Son](https://reagi-son.herokuapp.com) (Ctrl + click to open on new window)
+[Urgence Vitale](https://www.youtube.com/watch?v=1AYKmFTObQQ&t=2760s&ab_channel=LeWagon) (Ctrl + click to open on new window)
 
 - 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
