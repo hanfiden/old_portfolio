@@ -33,5 +33,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanfiden&show_icons=true&locale=en&layout=compact" alt="hanfiden" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanfiden&" alt="hanfiden" /></p>
-
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=hanfiden"><img src="https://github-profile-trophy.vercel.app/?username=hanfiden&row=1&column=6" alt="hanfiden" /></a> </p>
