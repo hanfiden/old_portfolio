@@ -30,6 +30,6 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanfiden&show_icons=true&locale=en&layout=compact" alt="hanfiden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanfiden&show_icons=true&locale=en&layout=compact" alt="hanfiden" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanfiden&" alt="hanfiden" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hanfiden&" alt="hanfiden" /></p>
