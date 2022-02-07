@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fiden</h1>
 <h3 align="center">A passionate in science and programming 💻</h3>
 
-- 👱🏼‍♂️ Let's check out my [Portfolio](https://hanfiden.github.io/hanfiden/) (Ctrl + click to open on new window)
+- 👱🏼‍♂️ Let's check out my [Portfolio](https://hanfiden.github.io/old_portfolio/) (Ctrl + click to open on new window)
 
 - 🧑🏼‍💻 Here, are my projects:\
 [RéAgi'Son](https://reagi-son.herokuapp.com) (Ctrl + click to open on new window)\
